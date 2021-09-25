@@ -1,0 +1,65 @@
+[{
+    "name": "Taylor Swift",
+    "country": "America",
+    "born": 1989,
+    "age": 31,
+    "role": "Singer",
+    "costToHire": 1200000,
+    "image": "https://static.billboard.com/files/2020/12/Taylor-Swift-VMA-2019-billboard-1548-1607693369-compressed.jpg"
+}, {
+    "name": "Rick Allen",
+    "country": "United Kingdom",
+    "born": 1963,
+    "age": 57,
+    "role": "Drummer",
+    "costToHire": 1550000,
+    "image": "https://www.thisdayinmusic.com/wp-content/uploads/2018/06/RickAllen.jpg"
+}, {
+    "name": "Carlos Santana",
+    "country": "Mexico",
+    "born": 1947,
+    "age": 74,
+    "role": "Guitarist",
+    "costToHire": 1150000,
+    "image": "https://cdn.wegow.com/media/artists/carlos-santana/carlos-santana-1492554491.27.2560x1440.jpg"
+}, {
+    "name": "Joe Satriani",
+    "country": "America",
+    "born": 1956,
+    "age": 65,
+    "role": "Guitarist",
+    "costToHire": 1030000,
+    "image": "https://townsquare.media/site/295/files/2020/04/satch.jpg?w=980&q=75"
+}, {
+    "name": "Ed Sheeran",
+    "country": "United Kingdom",
+    "born": 1991,
+    "age": 30,
+    "role": "Singer",
+    "costToHire": 2000000,
+    "image": "https://i.scdn.co/image/ab6761610000e5eb12a2ef08d00dd7451a6dbed6"
+}, {
+    "name": "Drake",
+    "country": "Canada",
+    "born": 1986,
+    "age": 34,
+    "role": "Singer",
+    "costToHire": 900000,
+    "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/7648/production/_120408203_gettyimages-1153762018.jpg"
+}, {
+    "name": "Shakira",
+    "country": "Colombia",
+    "born": 1976,
+    "age": 44,
+    "role": "Singer",
+    "costToHire": 900000,
+    "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/738B/production/_116497592_gettyimages-971720370.jpg"
+}, {
+    "name": "David Guetta",
+    "country": "France",
+    "born": 1967,
+    "age": 53,
+    "role": "Singer",
+    "costToHire": 900000,
+    "image": "https://dl99wm7nnls30.cloudfront.net/wp-content/uploads/2021/06/118969497_davidguettadanreid.jpg"
+}]
