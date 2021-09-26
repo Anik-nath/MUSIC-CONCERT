@@ -27,7 +27,7 @@ const SingerContainer = () => {
                         singer.map(element => <Profile element={element} key={element.name} handleMusician={handleMusician}></Profile> )
                     }
                 </div>
-                <div className="selectedSinger">
+                <div>
                     <SelectionCart selectedMusician={selectedMusician}></SelectionCart>
                 </div>
             </div>

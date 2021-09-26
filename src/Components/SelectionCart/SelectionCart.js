@@ -9,12 +9,13 @@ const SelectionCart = (props) => {
     }
 
     return (
-        <div>
+        <div className="selectedSinger">
             <h3>Selected Musician : {props.selectedMusician.length} </h3>
-            <p>{total}</p>
+            <p>Total Cost : $ {total}</p>
             {
-                selectedMusician.map(select => <p className="selectedSinger">{select.name}</p>)
+                selectedMusician.map(select => <p className="show">{select.name}</p>)
             }
+            <button className="confirm">Confirm</button>
         </div>
     );
 };

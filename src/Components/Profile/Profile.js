@@ -5,7 +5,7 @@ import { faGuitar } from '@fortawesome/free-solid-svg-icons'
 
 const Profile = (props) => {
     const icon = <FontAwesomeIcon icon={faGuitar} />
-    const {name,image,born,age,costToHire,role} = props.element;
+    const {name,image,born,age,costToHire,role,country} = props.element;
 
     return (
         <div className="profile-cart">
@@ -13,11 +13,12 @@ const Profile = (props) => {
                 <img src={image} alt="" />
             </div>
             <div className="cart-body">
-                <h3>{name}</h3>
+                <h2>{name}</h2>
+                <p>Country : {country}</p>
                 <p>Born :{born}</p>
                 <p>Age : {age}</p>
                 <p>Role : {role}</p>
-                <p>HireCost : $ {costToHire}</p>
+                <p>Hire : $ {costToHire}</p>
             </div>
             <button onClick={() =>props.handleMusician(props.element)}>
             {icon} Hire
