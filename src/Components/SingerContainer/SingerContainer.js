@@ -14,9 +14,11 @@ const SingerContainer = () => {
     },[]);
 
     const handleMusician = (musician) => {
-        console.log(musician.name);
-        const newMusician = [...selectedMusician, musician];
-        setSelectedMusician(newMusician);
+        if(!selectedMusician.includes(musician)){
+            const newMusician = [...selectedMusician, musician];
+            setSelectedMusician(newMusician);
+        }
+       
     };
 
     return (
