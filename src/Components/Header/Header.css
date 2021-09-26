@@ -1,4 +1,17 @@
-
+.header{
+    background-color: rgba(0, 0, 0, 0.904);
+    padding: 10px 0px;
+}
 .header h1{
     margin-top: 0px;
+    color: #dc274a;
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+.header h2{
+    color:#dc274a;
+}
+.header p{
+    color: #ccc;
+    font-size: 14px;
 }

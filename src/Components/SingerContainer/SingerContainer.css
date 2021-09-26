@@ -1,9 +1,14 @@
 .container{
     display: grid;
     grid-template-columns: 3fr 1fr;
-    margin: 0px 20px;
+    grid-gap: 15px;
+    background-image: url('../../../src/image/oscar-keys-ojVMh1QTVGY-unsplash.jpg');
+    background-size: cover;
+    padding: 40px;
+    padding-right: 0px;
 }
 .singers{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
 }
