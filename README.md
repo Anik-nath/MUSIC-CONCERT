@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+VISIT MUSIC CONCERT (https://music-concert-21.netlify.app/)
+
+1. USE REACT AS A LIBRARY
+2. USE PLAIN CSS AS STYLESHEET
+3. USE FONTAWESOME FOR ICON
+4. USE OWN BUILD DATA FOR MUSICIAN
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
